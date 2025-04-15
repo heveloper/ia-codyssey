@@ -1,0 +1,12 @@
+# 미션 컴퓨터 정보 출력 설정
+
+[system_info]
+os
+os_version
+cpu_type
+cpu_cores
+memory_size
+
+[load_info]
+cpu_usage
+memory_usage
